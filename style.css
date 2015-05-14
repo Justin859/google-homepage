@@ -1,0 +1,75 @@
+#google {
+  padding: 0;
+  margin-right: 0;
+  margin-left: 0;
+  position: relative;
+  left: 495px;
+  top: 200px;
+}
+
+#search_bar {
+  width: 600px;
+  height: 28px;
+  position: relative;
+  left: 380px;
+  top: 200px;
+  font-size: 24px;
+}
+
+#menu {
+  position: relative;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  top: -170px;
+}
+
+li {
+  float: right;
+}
+
+a {
+  display: block;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.buttons {
+  position: fixed;
+  left: 565px;
+  top: 400px;
+}
+
+.buttons:hover {
+
+}
+
+#search {
+  margin-right: 20px;
+  font-size: 14px;
+}
+
+#lucky {
+  font-size: 14px;
+}
+
+#footer {
+  position: fixed;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  top: 470px;
+  left: 460px;
+}
+
+#footer li {
+  float: left;
+}
+
+#footer a {
+  display: block;
+  width: 65px;
+}
